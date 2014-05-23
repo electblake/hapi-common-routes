@@ -1,0 +1,25 @@
+{
+  "name": "hapi-extra",
+  "version": "1.0.0",
+  "description": "Utility Extras for Hapijs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:electblake/hapi-extra.git"
+  },
+  "keywords": [
+    "hapijs",
+    "hapi",
+    "utility",
+    "utilities"
+  ],
+  "author": "electblake <electblake@gmail.com>",
+  "license": "Apache v2",
+  "bugs": {
+    "url": "https://github.com/electblake/hapi-extra/issues"
+  },
+  "homepage": "https://github.com/electblake/hapi-extra"
+}
