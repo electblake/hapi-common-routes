@@ -1,14 +1,14 @@
 {
-  "name": "hapi-extra",
+  "name": "hapi-common-routes",
   "version": "1.0.0",
-  "description": "Utility Extras for Hapijs",
+  "description": "My Favourite Common HapiJS Routes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:electblake/hapi-extra.git"
+    "url": "git@github.com:electblake/hapi-common-routes.git"
   },
   "keywords": [
     "hapijs",
@@ -20,17 +20,9 @@
     "name": "electblake",
     "email": "electblake@gmail.com"
   },
-  "license": "Apache v2",
+  "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/electblake/hapi-extra/issues"
+    "url": "https://github.com/electblake/hapi-common-routes/issues"
   },
-  "homepage": "https://github.com/electblake/hapi-extra",
-  "readme": "hapi-extra\n==========\n\nUtility Extras for Hapijs\n",
-  "readmeFilename": "README.md",
-  "_id": "hapi-extra@1.0.0",
-  "dist": {
-    "shasum": "e7131490f76674fa3abc79cefe4155fba152c0d1"
-  },
-  "_from": "https://github.com/electblake/hapi-common-routes/tarball/v0.0.1",
-  "_resolved": "https://github.com/electblake/hapi-common-routes/tarball/v0.0.1"
+  "homepage": "https://github.com/electblake/hapi-common-routes"
 }
