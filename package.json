@@ -1,6 +1,6 @@
 {
   "name": "hapi-common-routes",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "My Favourite Common HapiJS Routes",
   "main": "index.js",
   "scripts": {
