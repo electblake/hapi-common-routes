@@ -1,7 +1,7 @@
 {
   "name": "hapi-common-routes",
   "version": "1.0.0",
-  "description": "My Favourite Common HapiJS Routes",
+  "description": "Common HapiJS ~5.1 Routes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,8 +13,7 @@
   "keywords": [
     "hapijs",
     "hapi",
-    "utility",
-    "utilities"
+    "hapi-plugin"
   ],
   "author": {
     "name": "electblake",
@@ -24,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/electblake/hapi-common-routes/issues"
   },
-  "homepage": "https://github.com/electblake/hapi-common-routes"
+  "homepage": "https://github.com/electblake/hapi-common-routes",
+  "peerDependencies": {
+    "hapi": "~5.1.0"
+  },
+  "dependencies": {
+    "hoek": "~2.2.0",
+    "underscore": "~1.6.0"
+  }
 }
