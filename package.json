@@ -1,0 +1,28 @@
+{
+  "name": "hapi-common-routes",
+  "version": "1.0.0",
+  "description": "My Favourite Common HapiJS Routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:electblake/hapi-common-routes.git"
+  },
+  "keywords": [
+    "hapijs",
+    "hapi",
+    "utility",
+    "utilities"
+  ],
+  "author": {
+    "name": "electblake",
+    "email": "electblake@gmail.com"
+  },
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/electblake/hapi-common-routes/issues"
+  },
+  "homepage": "https://github.com/electblake/hapi-common-routes"
+}
